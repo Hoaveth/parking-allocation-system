@@ -1,4 +1,3 @@
-import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import ParkingForm from "./pages/ParkingForm";
 import ParkingLot from "./pages/ParkingLot";
