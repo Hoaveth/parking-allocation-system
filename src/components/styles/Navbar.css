@@ -1,0 +1,22 @@
+/* Navbar */
+.navbar {
+    background-color: rgb(5, 5, 46);
+    width: 100%;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+.navbar h2 {
+    font-size: 24px;
+    margin-left: 20px;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    right: 0;
+}
